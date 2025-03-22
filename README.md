@@ -1,2 +1,2 @@
 # App-Reviews-Sentiment-Analysis
-App Reviews Sentiment Analysis involves evaluating and understanding the sentiments expressed in user reviews of mobile applications (apps).
+App Reviews Sentiment Analysis involves evaluating and understanding the sentiments expressed in user reviews of mobile applications (apps).This  is a valuable tool for app developers and businesses to understand user feedback, prioritize feature updates, and maintain a positive user community. It involves using data analysis techniques to determine whether the sentiments in these reviews are positive, negative, or neutral
